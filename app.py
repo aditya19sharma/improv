@@ -19,8 +19,8 @@ ZOHO_IMAP_PASSWORD = os.getenv('ZOHO_IMAP_PASSWORD') # Your Zoho App Password or
 
 # --- Hardcoded Values ---
 # Domain and forward email are fixed in this version
-DOMAIN_NAME = "writebear.tech"
-FORWARD_EMAIL = "markdavis939@zohomail.com"
+DOMAIN_NAME = "blackorng.tech"
+FORWARD_EMAIL = "adityaxsharma75@zohomail.com"
 BASE_URL = "https://api.improvmx.com/v3"
 ZOHO_IMAP_SERVER = "imap.zoho.com" # Added
 ZOHO_IMAP_PORT = 993              # Added (IMAP SSL port)
