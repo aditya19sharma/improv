@@ -23,7 +23,7 @@ DOMAIN_NAME = "blackorng.tech"
 FORWARD_EMAIL = "adityaxsharma75@zohomail.com"
 BASE_URL = "https://api.improvmx.com/v3"
 ZOHO_IMAP_SERVER = "imap.zoho.com" # Added
-ZOHO_IMAP_PORT = 993              # Added (IMAP SSL port)
+ZOHO_IMAP_PORT = 995             # Added (IMAP SSL port)
 OTP_TARGET_EMAIL = "varunn@writebear.tech" # Added - specify which email account to read
 
 # --- Helper Function to Check Server Configuration ---
